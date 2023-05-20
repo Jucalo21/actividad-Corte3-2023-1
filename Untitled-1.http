@@ -1,0 +1,2 @@
+GET http://localhost:3000/api
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODQ1OTkwMTcsImV4cCI6MTY4NDU5OTMxN30._LmvBCemKKRqzZuZhi8ne3j3-SXvjn8A1_jzYk2CPCw
